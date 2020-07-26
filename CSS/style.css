@@ -1,0 +1,53 @@
+body {
+        background: rgb(230, 161, 161);
+        margin-left: 80px;
+        margin-right: 600px;
+
+}
+
+header {
+    margin-top: 70px;
+}
+
+h1{ 
+    color: red;
+    font-family: fantasy;
+}
+
+h2 {
+    font-family: fantasy;
+
+}
+
+h3 {
+    color: rgb(38, 3, 133);
+    font-style: oblique;
+}
+
+h4 {
+    color: rgb(11, 179, 25);
+}
+
+p{
+    font-size: 18px;
+}
+
+footer{
+    margin-bottom: 90px;
+}
+
+.img_Padrao{
+    margin-bottom: 30px;
+    width: 300px;
+}
+.img_wi-fi{
+    margin-bottom: 30px;
+    width: 500px;
+}
+.img_Teleco{
+    margin-bottom: 30px;
+    width: 250px;
+}
+.logo{
+    width: 30px;
+}
